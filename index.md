@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-##Recent Data Science Projects and Articles
+## Recent Data Science Projects and Articles
 
 You can find more of my machine learning and data science projects on my Portfolio page.
 My Blog Page contains various articles from economics, finance, artificial intelligence and
