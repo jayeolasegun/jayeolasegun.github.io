@@ -9,19 +9,19 @@ You can find more of my machine learning and data science projects on my Portfol
 My Blog Page contains various articles from economics, finance, artificial intelligence and
 any topic that you would love to read.
 
-### Python Programming
+### Python Programming.
 
 
-### Web Scraping (Data Acquisition)
+### Web Scraping (Data Acquisition).
 
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis.
 
 
-### Data Visualisation
+### Data Visualisation.
 
 
-### Machine Learning (Regression and Classification)
+### Machine Learning (Regression and Classification).
 
 
-### Natural Language Processing 
+### Natural Language Processing. 
